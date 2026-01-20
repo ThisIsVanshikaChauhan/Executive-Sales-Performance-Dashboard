@@ -1,5 +1,6 @@
 # Executive-Sales-Performance-Dashboard
 A professional sales dashboard that turns complex hardware market data into clear charts to help a company track its money, growth, and customer trends
+
 📖 Project Overview
 This project takes raw sales data from a MySQL database (db_dump.sql) and turns it into useful business information. As a Senior Data Analyst, I focused on two main goals:
 
